@@ -2,16 +2,16 @@
 
 <ul>
 	<li>
-		<a href="dash.generalassemb.ly/">dash.generalassemb.ly/</a>
+		<a href="http://www.dash.generalassemb.ly/">dash.generalassemb.ly/</a>
 	</li>
 	<li>
-		<a href="codecademy.com/learn/">codecademy.com/learn/</a>
+		<a href="http://www.codecademy.com/learn/">codecademy.com/learn/</a>
 	</li>
 	<li>
-		<a href="codeschool.com/learn/html-css">codeschool.com/learn/html-css</a>
+		<a href="http://www.codeschool.com/learn/html-css">codeschool.com/learn/html-css</a>
 	</li>
 	<li>
-		<a href="codeschool.com/learn/html-css">codeschool.com/learn/html-css</a>
+		<a href="http://www.codeschool.com/learn/html-css">codeschool.com/learn/html-css</a>
 	</li>
 </ul>
 
