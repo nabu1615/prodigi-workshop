@@ -11,7 +11,7 @@
 		<a href="http://www.codeschool.com/learn/html-css">codeschool.com/learn/html-css</a>
 	</li>
 	<li>
-		<a href="http://www.codeschool.com/learn/html-css">codeschool.com/learn/html-css</a>
+		<a href="https://teamtreehouse.com/">teamtreehouse.com</a>
 	</li>
 </ul>
 
